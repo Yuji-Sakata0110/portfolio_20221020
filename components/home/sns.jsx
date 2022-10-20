@@ -58,7 +58,7 @@ export default function Sns() {
             <div className="sns-account-description">
                 <p className="sns-account-description-text">
                     GitHub・Qiita・Twitterを活用し情報発信し始めています。<br />
-                    今後は開発案件や自分の個人プロジェクトを通して学んだことをどんどん発信して。日本のエンジニア情報界に貢献したいとも思っています。<br />
+                    今後は開発案件や自分の個人プロジェクトを通して学んだことをどんどん発信して、日本のエンジニア情報界に貢献したいとも思っています。<br />
                     今回作成したPortfolioは、<a href="https://github.com/Yuji-Sakata0110/portfolio_20221020" alt="link to this project github">こちら</a>からコードを確認できます。
                 </p>
             </div>
