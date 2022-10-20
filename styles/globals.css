@@ -1,0 +1,156 @@
+html {
+    background-color: black;
+}
+
+a {
+    color: aqua;
+    transition: color 0.2s;
+}
+
+a:hover {
+    color: magenta;
+}
+
+
+.content {
+    background: rgb(50, 50, 50);
+    color: aliceblue;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+}
+
+.navi {
+    list-style: none;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+.navi-github {
+    margin-right: 5px;
+}
+
+
+.container {
+    text-align: center;
+    width: 100%;
+}
+
+.mypage-title {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.mypage-title-text {
+    font-size: 50px;
+}
+
+/* head section */
+.myprofile {
+    margin-bottom: 150px;
+}
+
+.myname {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/* projects */
+.myproject-section {
+    margin-bottom: 150px;
+}
+
+
+.myproject-title {
+    margin-bottom: 100px;
+}
+
+.todoapp {
+    margin-bottom: 30px;
+}
+
+.todo-desription {
+    margin-top: 30px;
+}
+
+.blog {
+    margin-bottom: 30px;
+}
+
+.blog-desription {
+    margin-top: 30px;
+}
+
+.column1 {
+    margin-bottom: 70px;
+}
+
+.site_image {
+    transition: 0.3s;
+}
+
+.site_image:hover {
+    transform: scale(1.05);
+    transition-duration: 0.3s;
+}
+
+/* skill */
+.myskills {
+    margin-bottom: 150px;
+}
+
+.Programming {
+    margin-top: 50px;
+}
+
+.languages {
+    display: flex;
+    justify-content: center;
+}
+
+.language {
+    list-style: none;
+    padding-right: 20px;
+}
+
+
+/* mypast */
+.mypast-section {
+    margin-bottom: 150px;
+}
+
+.mypast-projects {
+    margin-bottom: 50px;
+}
+
+/* sns */
+.sns-section {
+    padding-bottom: 150px;
+}
+
+.sns-para {
+    margin-bottom: 50px;
+}
+
+.sns-accounts {
+    display: flex;
+    justify-content: center;
+}
+
+.sns-account {
+    list-style: none;
+    padding-right: 20px;
+}
+
+
+.footer {
+    background-color: rgba(25, 22, 22, 0.55);
+    padding: 10px;
+}
+
+.copyright {
+    padding-top: 10px;
+    text-align: center;
+}
