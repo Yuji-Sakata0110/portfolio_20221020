@@ -17,11 +17,11 @@ export default function Home() {
     <div className='content'>
       <HeadSection />
 
-      <header>
-        <Navigation />
-      </header>
-
       <div className="container">
+
+        <header>
+          <Navigation />
+        </header>
 
         <main>
 
