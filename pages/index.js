@@ -15,8 +15,9 @@ export default function Home() {
 
   return (
     <div className='content'>
+      <HeadSection />
+
       <header>
-        <HeadSection />
         <Navigation />
       </header>
 
