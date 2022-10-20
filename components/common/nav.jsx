@@ -2,9 +2,12 @@ import React from "react"
 
 export default function Navigation() {
     return (
-        <nav className="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
-            <div className="container-fluid">
-                <div className="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+        <nav className="navbar navbar-expand fixed-top">
+            <div className="">
+                <div
+                    className=""
+                    id="navbarSupportedContent"
+                >
                     <ul className="navigation">
                         <li className="navi">
                             <a className="nav-link" href="/">Home</a>
